@@ -9,10 +9,6 @@ desyncを直すためにp2mファイルをいじりたかったんですが、�
 トップにある「pcsx2-rr-editor_v1.0.exe」をダウンロードして実行してください。
 
 
-## Licence
+** Licence **
 
 [MIT](http://choosealicense.com/licenses/mit/)
-
-## Author
-
-[poco]
